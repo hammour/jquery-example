@@ -1,0 +1,21 @@
+{
+  "name": "jquery-intro",
+  "version": "1.0.0",
+  "description": "an introduction to jquery ",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jquery",
+    "javascript",
+    "fun"
+  ],
+  "author": "Haythem Hammour",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "jquery": "^2.2.2",
+    "normalize.css": "^4.0.0"
+  }
+}
